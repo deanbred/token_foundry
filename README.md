@@ -64,3 +64,8 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+### Forking Mainnet
+
+```shell    
+$ anvil --fork-url https://eth-mainnet.g.alchemy.com/v2/${ALCHEMY_API_KEY}
+```
